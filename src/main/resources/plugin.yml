@@ -1,0 +1,6 @@
+name: CanemMeal
+version: '${project.version}'
+main: me.fivevl.canemeal.Main
+api-version: 1.19
+authors: [ 5vl ]
+description: Makes sugar cane bonemeal-able
